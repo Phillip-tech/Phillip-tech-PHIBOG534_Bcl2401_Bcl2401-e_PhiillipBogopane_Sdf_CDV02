@@ -1,6 +1,6 @@
 # Phillip-tech-PHIBOG534_Bcl2401_Bcl2401-e_PhiillipBogopane_Sdf_CDV02
 
-Entry-level React Developer
+
 I am an Entry-level Software Developer  from CodeSpace Academy's comprehensive Software Development course. I am proficient in  JavaScript, HTML and CSS.
 
 Phone Icon 076 937 5389
