@@ -1,4 +1,4 @@
-# Phillip-tech-PHIBOG534_Bcl2401_Bcl2401-e_PhiillipBogopane_Sdf_CDV02
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Phillip Bogopane
 ========================================================================================================================================
 
@@ -42,33 +42,7 @@ src="https://img.shields.io/github/followers/Phillip-tech?logo=github&style=for-
 
 <div width="100%" align="center"><a href="https://github.com/Phillip-tech/PHIBOG534_Bcl2401_Bcl2401-e_PhillipBogopane_Sdf09" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Phillip-tech&repo=PHIBOG534_Bcl2401_Bcl2401-e_PhillipBogopane_Sdf09&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/Phillip-tech/SDF11_BankLandingPage_Piece_PHIBOG534_Bcl2401-e_Group_Phillip-Bogopane_SDF11-main" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Phillip-tech&repo=SDF11_BankLandingPage_Piece_PHIBOG534_Bcl2401-e_Group_Phillip-Bogopane_SDF11-main&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-Work Experience
 
-Self-employed-Selling Food
-March 2017- March 2019
-
-Education
-
-Software Development
-🔗CodeSpace Academy
-Graduating soon: Dec 2024
-
-Completed New venture creation certificate
-🔗Learnership
-Graduated: Dec 2017
-
-
-National Senior Certificate
-Bafokeng Higih School
-
-
-PERSONAL PROJECTS
-
-Add-app
-🔗https://github.com/Phillip-tech/PHIBOG534_Bcl2401_Bcl2401-e_PhiillipBogopane_Chatbot
-
-Description: Health cahtbot:
-Gives addvice about health
 
 
 
